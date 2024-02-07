@@ -3,24 +3,35 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 import re
+import os
+from collections import OrderedDict
 
-hwurl = "hwurl"  # 定义hwurl变量
+def tryint(s):
+    try:
+        return int(s)
+    except ValueError:
+        return s
+
+def alphanum_key(s):
+    return [tryint(c) for c in re.split('([0-9]+)', s)]
+
+def sort_nicely(l):
+    l.sort(key=alphanum_key)
+
+hwurl = "hwurl"
 prefix = sys.argv[2] if len(sys.argv) > 2 else ""
 
-# 打印prefix
-print(f"prefix: {prefix}")
+output_file = sys.argv[3] if len(sys.argv) > 3 and sys.argv[3] else re.sub(r'http[s]?://([^:/]+).*', r'\1', sys.argv[2]).replace(".", "") + ".m3u"
 
-# 读取JSON文件
+
+print(f"output_file: {output_file}")
+
 with open(sys.argv[1], 'r', encoding='utf-8') as file:
     json_data = file.read()
 
-# 解析JSON数据
 data = json.loads(json_data)
+results = OrderedDict()
 
-# 存储结果的列表
-results = []
-
-# 遍历channels
 for channel in data["channels"]:
     channel_title = channel["title"]
 
@@ -34,21 +45,36 @@ for channel in data["channels"]:
         if "params" in phychannel and hwurl in phychannel["params"]:
             hwurl_value = phychannel["params"][hwurl]
 
-    # 如果hwurl_value为空，则从params中获取
     if not hwurl_value:
         if hwurl in channel["params"]:
             hwurl_value = channel["params"][hwurl]
 
-    # 添加结果到列表
     if hwurl_value:
-        # 替换 "rtp:/" 为 "udp://"
         hwurl_value = hwurl_value.replace("rtp:/", "/udp")
-        #result = f"{channel_title},{prefix}{hwurl_value}"
-        result = f"#EXTINF:-1 ,{channel_title}\n{prefix}{hwurl_value}"
-        results.append(result)
+        result = f"#EXTINF:-1 group-title=\"IPTV\", {channel_title} \n{prefix}{hwurl_value}"
+        results[channel_title] = result
 
-with open("local.m3u", 'w', encoding='utf-8') as file:
-    for result in results:
-        file.write(result + '\n')
+output_file = os.path.join('out', output_file)
 
+with open(output_file, 'w', encoding='utf-8') as file:
+    file.writelines("#EXTM3U" + '\n')
+    sorted_keys = sorted(results.keys(), key=alphanum_key)
+    sort_nicely(sorted_keys)
+    for key in sorted_keys:
+        file.write(results[key] + '\n')
 
+with open("./IPTV.m3u", 'r', encoding='utf-8') as iptv_file:
+    iptv_content = iptv_file.readlines()
+
+iptv_content = iptv_content[1:]
+
+with open(output_file, 'a', encoding='utf-8') as local_file:
+    local_file.writelines(iptv_content)
+
+with open("./Global.m3u", 'r', encoding='utf-8') as global_file:
+    global_content = global_file.readlines()
+
+global_content = global_content[1:]
+
+with open(output_file, 'a', encoding='utf-8') as local_file:
+    local_file.writelines(global_content)
