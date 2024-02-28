@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 group-title="IPTV", CCTV-1高清 
+#EXTINF:-1 group-title="IPTV", CCTV-1 
 http://home-mi:7088/udp/239.10.0.48:1025
-#EXTINF:-1 group-title="IPTV", CCTV-2高清 
+#EXTINF:-1 group-title="IPTV", CCTV-2 
 http://home-mi:7088/udp/239.10.0.207:1025
-#EXTINF:-1 group-title="IPTV", CCTV-3高清 
+#EXTINF:-1 group-title="IPTV", CCTV-3 
 http://home-mi:7088/udp/239.10.0.101:1025
-#EXTINF:-1 group-title="IPTV", CCTV-4中文国际欧洲高清 
+#EXTINF:-1 group-title="IPTV", CCTV-4中文国际欧洲 
 http://home-mi:7088/udp/239.11.0.101:1025
-#EXTINF:-1 group-title="IPTV", CCTV-4中文国际美洲高清 
+#EXTINF:-1 group-title="IPTV", CCTV-4中文国际美洲 
 http://home-mi:7088/udp/239.11.0.102:1025
-#EXTINF:-1 group-title="IPTV", CCTV-4高清 
+#EXTINF:-1 group-title="IPTV", CCTV-4 
 http://home-mi:7088/udp/239.10.0.245:1025
-#EXTINF:-1 group-title="IPTV", CCTV-5+体育高清 
+#EXTINF:-1 group-title="IPTV", CCTV-5+体育 
 http://home-mi:7088/udp/239.10.0.213:1025
-#EXTINF:-1 group-title="IPTV", CCTV-5高清 
+#EXTINF:-1 group-title="IPTV", CCTV-5 
 http://home-mi:7088/udp/239.10.0.102:1025
-#EXTINF:-1 group-title="IPTV", CCTV-6高清 
+#EXTINF:-1 group-title="IPTV", CCTV-6 
 http://home-mi:7088/udp/239.10.0.103:1025
-#EXTINF:-1 group-title="IPTV", CCTV-7国防军事高清 
+#EXTINF:-1 group-title="IPTV", CCTV-7国防军事 
 http://home-mi:7088/udp/239.10.0.208:1025
-#EXTINF:-1 group-title="IPTV", CCTV-8高清 
+#EXTINF:-1 group-title="IPTV", CCTV-8 
 http://home-mi:7088/udp/239.10.0.104:1025
-#EXTINF:-1 group-title="IPTV", CCTV-9高清 
+#EXTINF:-1 group-title="IPTV", CCTV-9 
 http://home-mi:7088/udp/239.10.0.209:1025
-#EXTINF:-1 group-title="IPTV", CCTV-10高清 
+#EXTINF:-1 group-title="IPTV", CCTV-10 
 http://home-mi:7088/udp/239.10.0.210:1025
-#EXTINF:-1 group-title="IPTV", CCTV-11高清 
+#EXTINF:-1 group-title="IPTV", CCTV-11 
 http://home-mi:7088/udp/239.11.0.24:1025
-#EXTINF:-1 group-title="IPTV", CCTV-12高清 
+#EXTINF:-1 group-title="IPTV", CCTV-12 
 http://home-mi:7088/udp/239.10.0.211:1025
-#EXTINF:-1 group-title="IPTV", CCTV-13高清 
+#EXTINF:-1 group-title="IPTV", CCTV-13 
 http://home-mi:7088/udp/239.10.0.198:1025
-#EXTINF:-1 group-title="IPTV", CCTV-14少儿高清 
+#EXTINF:-1 group-title="IPTV", CCTV-14少儿 
 http://home-mi:7088/udp/239.10.0.212:1025
-#EXTINF:-1 group-title="IPTV", CCTV-15高清 
+#EXTINF:-1 group-title="IPTV", CCTV-15 
 http://home-mi:7088/udp/239.11.0.25:1025
-#EXTINF:-1 group-title="IPTV", CCTV-16高清 
+#EXTINF:-1 group-title="IPTV", CCTV-16 
 http://home-mi:7088/udp/239.11.0.126:1025
-#EXTINF:-1 group-title="IPTV", CCTV-17农业高清 
+#EXTINF:-1 group-title="IPTV", CCTV-17农业 
 http://home-mi:7088/udp/239.10.0.244:1025
 #EXTINF:-1 group-title="IPTV", CETV-2 
 http://home-mi:7088/udp/239.11.0.35:1025
-#EXTINF:-1 group-title="IPTV", CETV-4高清 
+#EXTINF:-1 group-title="IPTV", CETV-4 
 http://home-mi:7088/udp/239.11.0.176:1025
 #EXTINF:-1 group-title="IPTV", CGTN 俄语 
 http://home-mi:7088/udp/239.11.0.108:1025
@@ -65,31 +65,31 @@ http://home-mi:7088/udp/239.10.0.8:1025
 http://home-mi:7088/udp/239.10.0.10:1025
 #EXTINF:-1 group-title="IPTV", VSPN电竞 
 http://home-mi:7088/udp/239.10.0.84:1025
-#EXTINF:-1 group-title="IPTV", 三沙卫视高清 
+#EXTINF:-1 group-title="IPTV", 三沙卫视 
 http://home-mi:7088/udp/239.11.0.177:1025
-#EXTINF:-1 group-title="IPTV", 上海纪实高清 
+#EXTINF:-1 group-title="IPTV", 上海纪实 
 http://home-mi:7088/udp/239.10.0.78:1025
-#EXTINF:-1 group-title="IPTV", 世界地理高清 
+#EXTINF:-1 group-title="IPTV", 世界地理 
 http://home-mi:7088/udp/239.11.0.63:1025
-#EXTINF:-1 group-title="IPTV", 东方卫视高清 
+#EXTINF:-1 group-title="IPTV", 东方卫视 
 http://home-mi:7088/udp/239.10.0.183:1025
 #EXTINF:-1 group-title="IPTV", 中国交通 
 http://home-mi:7088/udp/239.10.0.72:1025
-#EXTINF:-1 group-title="IPTV", 中国教育-1高清 
+#EXTINF:-1 group-title="IPTV", 中国教育-1 
 http://home-mi:7088/udp/239.10.0.223:1025
 #EXTINF:-1 group-title="IPTV", 中学生 
 http://home-mi:7088/udp/239.11.0.173:1025
 #EXTINF:-1 group-title="IPTV", 书画 
 http://home-mi:7088/udp/239.11.0.174:1025
-#EXTINF:-1 group-title="IPTV", 云南卫视高清 
+#EXTINF:-1 group-title="IPTV", 云南卫视 
 http://home-mi:7088/udp/239.11.0.171:1025
-#EXTINF:-1 group-title="IPTV", 兵器科技高清 
+#EXTINF:-1 group-title="IPTV", 兵器科技 
 http://home-mi:7088/udp/239.11.0.57:1025
 #EXTINF:-1 group-title="IPTV", 兵团卫视 
 http://home-mi:7088/udp/239.10.0.170:1025
 #EXTINF:-1 group-title="IPTV", 内蒙古卫视 
 http://home-mi:7088/udp/239.10.0.163:1025
-#EXTINF:-1 group-title="IPTV", 北京卫视高清 
+#EXTINF:-1 group-title="IPTV", 北京卫视 
 http://home-mi:7088/udp/239.10.0.131:1025
 #EXTINF:-1 group-title="IPTV", 南方购物-精选 
 http://home-mi:7088/udp/239.11.0.95:1025
@@ -99,91 +99,91 @@ http://home-mi:7088/udp/239.10.0.172:1025
 http://home-mi:7088/udp/239.10.0.178:1025
 #EXTINF:-1 group-title="IPTV", 发现之旅 
 http://home-mi:7088/udp/239.11.0.182:1025
-#EXTINF:-1 group-title="IPTV", 吉林卫视高清 
+#EXTINF:-1 group-title="IPTV", 吉林卫视 
 http://home-mi:7088/udp/239.10.0.81:1025
 #EXTINF:-1 group-title="IPTV", 吉林延边卫视 
 http://home-mi:7088/udp/239.10.0.140:1025
 #EXTINF:-1 group-title="IPTV", 咪咕五大联赛4K-1 
 http://home-mi:7088/udp/239.10.0.68:1025
-#EXTINF:-1 group-title="IPTV", 嘉佳卡通高清 
+#EXTINF:-1 group-title="IPTV", 嘉佳卡通 
 http://home-mi:7088/udp/239.10.0.200:1025
-#EXTINF:-1 group-title="IPTV", 四川卫视高清 
+#EXTINF:-1 group-title="IPTV", 四川卫视 
 http://home-mi:7088/udp/239.10.0.60:1025
 #EXTINF:-1 group-title="IPTV", 国学频道 
 http://home-mi:7088/udp/239.10.0.38:1025
-#EXTINF:-1 group-title="IPTV", 大湾区卫视高清 
+#EXTINF:-1 group-title="IPTV", 大湾区卫视 
 http://home-mi:7088/udp/239.11.0.78:1025 
-#EXTINF:-1 group-title="IPTV", 天津卫视高清 
+#EXTINF:-1 group-title="IPTV", 天津卫视 
 http://home-mi:7088/udp/239.10.0.55:1025
-#EXTINF:-1 group-title="IPTV", 央视台球高清 
+#EXTINF:-1 group-title="IPTV", 央视台球 
 http://home-mi:7088/udp/239.11.0.60:1025
-#EXTINF:-1 group-title="IPTV", 央视精品高清 
+#EXTINF:-1 group-title="IPTV", 央视精品 
 http://home-mi:7088/udp/239.11.0.66:1025
-#EXTINF:-1 group-title="IPTV", 女性时尚高清 
+#EXTINF:-1 group-title="IPTV", 女性时尚 
 http://home-mi:7088/udp/239.11.0.62:1025
 #EXTINF:-1 group-title="IPTV", 宁夏卫视 
 http://home-mi:7088/udp/239.10.0.166:1025
-#EXTINF:-1 group-title="IPTV", 安徽卫视高清 
+#EXTINF:-1 group-title="IPTV", 安徽卫视 
 http://home-mi:7088/udp/239.10.0.203:1025
 #EXTINF:-1 group-title="IPTV", 少儿动画 
 http://home-mi:7088/udp/239.10.0.18:1025
-#EXTINF:-1 group-title="IPTV", 山东卫视超清 
+#EXTINF:-1 group-title="IPTV", 山东卫视 
 http://home-mi:7088/udp/239.10.0.56:1025
 #EXTINF:-1 group-title="IPTV", 山东教育 
 http://home-mi:7088/udp/239.10.0.176:1025
 #EXTINF:-1 group-title="IPTV", 山西卫视 
 http://home-mi:7088/udp/239.10.0.162:1025
-#EXTINF:-1 group-title="IPTV", 岭南戏曲高清 
+#EXTINF:-1 group-title="IPTV", 岭南戏曲 
 http://home-mi:7088/udp/239.11.0.180:1025
-#EXTINF:-1 group-title="IPTV", 广东体育超清 
+#EXTINF:-1 group-title="IPTV", 广东体育 
 http://home-mi:7088/udp/239.10.0.47:1025
-#EXTINF:-1 group-title="IPTV", 广东卫视超清 
+#EXTINF:-1 group-title="IPTV", 广东卫视 
 http://home-mi:7088/udp/239.10.0.45:1025
-#EXTINF:-1 group-title="IPTV", 广东少儿高清 
+#EXTINF:-1 group-title="IPTV", 广东少儿 
 http://home-mi:7088/udp/239.11.0.81:1025
-#EXTINF:-1 group-title="IPTV", 广东影视高清 
+#EXTINF:-1 group-title="IPTV", 广东影视 
 http://home-mi:7088/udp/239.11.0.79:1025
-#EXTINF:-1 group-title="IPTV", 广东新闻高清 
+#EXTINF:-1 group-title="IPTV", 广东新闻 
 http://home-mi:7088/udp/239.10.0.199:1025
-#EXTINF:-1 group-title="IPTV", 广东民生高清 
+#EXTINF:-1 group-title="IPTV", 广东民生 
 http://home-mi:7088/udp/239.11.0.80:1025 
-#EXTINF:-1 group-title="IPTV", 广东珠江超清 
+#EXTINF:-1 group-title="IPTV", 广东珠江 
 http://home-mi:7088/udp/239.10.0.63:1025
-#EXTINF:-1 group-title="IPTV", 广西卫视高清 
+#EXTINF:-1 group-title="IPTV", 广西卫视 
 http://home-mi:7088/udp/239.10.0.246:1025
-#EXTINF:-1 group-title="IPTV", 怀旧剧场高清 
+#EXTINF:-1 group-title="IPTV", 怀旧剧场 
 http://home-mi:7088/udp/239.11.0.64:1025
 #EXTINF:-1 group-title="IPTV", 收视指南 
 http://home-mi:7088/udp/239.10.0.20:1025
 #EXTINF:-1 group-title="IPTV", 新疆卫视 
 http://home-mi:7088/udp/239.10.0.168:1025
-#EXTINF:-1 group-title="IPTV", 早期教育高清 
+#EXTINF:-1 group-title="IPTV", 早期教育 
 http://home-mi:7088/udp/239.11.0.100:1025
-#EXTINF:-1 group-title="IPTV", 江苏卫视高清 
+#EXTINF:-1 group-title="IPTV", 江苏卫视 
 http://home-mi:7088/udp/239.10.0.51:1025
-#EXTINF:-1 group-title="IPTV", 江西卫视高清 
+#EXTINF:-1 group-title="IPTV", 江西卫视 
 http://home-mi:7088/udp/239.10.0.80:1025
 #EXTINF:-1 group-title="IPTV", 汽摩 
 http://home-mi:7088/udp/239.10.0.232:1025
-#EXTINF:-1 group-title="IPTV", 河北卫视高清 
+#EXTINF:-1 group-title="IPTV", 河北卫视 
 http://home-mi:7088/udp/239.10.0.79:1025
-#EXTINF:-1 group-title="IPTV", 河南卫视高清 
+#EXTINF:-1 group-title="IPTV", 河南卫视 
 http://home-mi:7088/udp/239.11.0.94:1025
-#EXTINF:-1 group-title="IPTV", 浙江卫视高清 
+#EXTINF:-1 group-title="IPTV", 浙江卫视 
 http://home-mi:7088/udp/239.10.0.50:1025
-#EXTINF:-1 group-title="IPTV", 海南卫视高清 
+#EXTINF:-1 group-title="IPTV", 海南卫视 
 http://home-mi:7088/udp/239.11.0.172:1025
-#EXTINF:-1 group-title="IPTV", 深圳卫视高清 
+#EXTINF:-1 group-title="IPTV", 深圳卫视 
 http://home-mi:7088/udp/239.10.0.52:1025
-#EXTINF:-1 group-title="IPTV", 湖北卫视高清 
+#EXTINF:-1 group-title="IPTV", 湖北卫视 
 http://home-mi:7088/udp/239.10.0.54:1025
-#EXTINF:-1 group-title="IPTV", 湖南卫视高清 
+#EXTINF:-1 group-title="IPTV", 湖南卫视 
 http://home-mi:7088/udp/239.10.0.49:1025
 #EXTINF:-1 group-title="IPTV", 炫动卡通 
 http://home-mi:7088/udp/239.10.0.174:1025
 #EXTINF:-1 group-title="IPTV", 热播剧场 
 http://home-mi:7088/udp/239.10.0.15:1025
-#EXTINF:-1 group-title="IPTV", 爱体育高清 
+#EXTINF:-1 group-title="IPTV", 爱体育 
 http://home-mi:7088/udp/239.10.0.218:1025
 #EXTINF:-1 group-title="IPTV", 爱大剧 
 http://home-mi:7088/udp/239.10.0.14:1025
@@ -193,23 +193,23 @@ http://home-mi:7088/udp/239.10.0.12:1025
 http://home-mi:7088/udp/239.10.0.16:1025
 #EXTINF:-1 group-title="IPTV", 环球奇观 
 http://home-mi:7088/udp/239.10.0.36:1025
-#EXTINF:-1 group-title="IPTV", 现代教育高清 
+#EXTINF:-1 group-title="IPTV", 现代教育 
 http://home-mi:7088/udp/239.11.0.181:1025
-#EXTINF:-1 group-title="IPTV", 甘肃卫视高清 
+#EXTINF:-1 group-title="IPTV", 甘肃卫视 
 http://home-mi:7088/udp/239.11.0.175:1025
-#EXTINF:-1 group-title="IPTV", 电视指南高清 
+#EXTINF:-1 group-title="IPTV", 电视指南 
 http://home-mi:7088/udp/239.11.0.58:1025
-#EXTINF:-1 group-title="IPTV", 福建东南卫视高清 
+#EXTINF:-1 group-title="IPTV", 福建东南卫视 
 http://home-mi:7088/udp/239.10.0.77:1025
 #EXTINF:-1 group-title="IPTV", 移动咪咕五大联赛4K-2 
 http://home-mi:7088/udp/239.10.0.69:1025
 #EXTINF:-1 group-title="IPTV", 移动频道 
 http://home-mi:7088/udp/239.10.0.143:1025
-#EXTINF:-1 group-title="IPTV", 第一剧场高清 
+#EXTINF:-1 group-title="IPTV", 第一剧场 
 http://home-mi:7088/udp/239.11.0.67:1025
 #EXTINF:-1 group-title="IPTV", 经典电影 
 http://home-mi:7088/udp/239.10.0.13:1025
-#EXTINF:-1 group-title="IPTV", 经济科教超清 
+#EXTINF:-1 group-title="IPTV", 经济科教 
 http://home-mi:7088/udp/239.10.0.46:1025
 #EXTINF:-1 group-title="IPTV", 老故事 
 http://home-mi:7088/udp/239.10.0.33:1025
@@ -217,31 +217,31 @@ http://home-mi:7088/udp/239.10.0.33:1025
 http://home-mi:7088/udp/239.10.0.167:1025
 #EXTINF:-1 group-title="IPTV", 财富天下 
 http://home-mi:7088/udp/239.10.0.177:1025
-#EXTINF:-1 group-title="IPTV", 贵州卫视高清 
+#EXTINF:-1 group-title="IPTV", 贵州卫视 
 http://home-mi:7088/udp/239.10.0.222:1025
-#EXTINF:-1 group-title="IPTV", 辽宁卫视高清 
+#EXTINF:-1 group-title="IPTV", 辽宁卫视 
 http://home-mi:7088/udp/239.10.0.58:1025
-#EXTINF:-1 group-title="IPTV", 重庆卫视高清 
+#EXTINF:-1 group-title="IPTV", 重庆卫视 
 http://home-mi:7088/udp/239.10.0.205:1025
-#EXTINF:-1 group-title="IPTV", 金鹰卡通高清 
+#EXTINF:-1 group-title="IPTV", 金鹰卡通 
 http://home-mi:7088/udp/239.11.0.125:1025
-#EXTINF:-1 group-title="IPTV", 金鹰纪实高清 
+#EXTINF:-1 group-title="IPTV", 金鹰纪实 
 http://home-mi:7088/udp/239.10.0.59:1025
 #EXTINF:-1 group-title="IPTV", 陕西卫视 
 http://home-mi:7088/udp/239.10.0.161:1025
-#EXTINF:-1 group-title="IPTV", 青海卫视高清 
+#EXTINF:-1 group-title="IPTV", 青海卫视 
 http://home-mi:7088/udp/239.11.0.179:1025
-#EXTINF:-1 group-title="IPTV", 风云剧场高清 
+#EXTINF:-1 group-title="IPTV", 风云剧场 
 http://home-mi:7088/udp/239.11.0.65:1025
-#EXTINF:-1 group-title="IPTV", 风云足球高清 
+#EXTINF:-1 group-title="IPTV", 风云足球 
 http://home-mi:7088/udp/239.11.0.59:1025
-#EXTINF:-1 group-title="IPTV", 风云音乐高清 
+#EXTINF:-1 group-title="IPTV", 风云音乐 
 http://home-mi:7088/udp/239.11.0.68:1025
-#EXTINF:-1 group-title="IPTV", 高尔夫网球高清 
+#EXTINF:-1 group-title="IPTV", 高尔夫网球 
 http://home-mi:7088/udp/239.11.0.61:1025
 #EXTINF:-1 group-title="IPTV", 魅力时尚 
 http://home-mi:7088/udp/239.10.0.19:1025
-#EXTINF:-1 group-title="IPTV", 黑龙江卫视高清 
+#EXTINF:-1 group-title="IPTV", 黑龙江卫视 
 http://home-mi:7088/udp/239.10.0.53:1025
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8

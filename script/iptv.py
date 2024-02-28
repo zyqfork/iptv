@@ -72,12 +72,10 @@ for key1 in results:
         if key1 != key2 and key1 in key2:
             keys_to_remove.add(key1)
 
-print(keys_to_remove)
+#print(keys_to_remove)
 
 for key in keys_to_remove:
     del results[key]
-
-
 
 output_file = os.path.join('out', output_file)
 
@@ -86,7 +84,8 @@ with open(output_file, 'w', encoding='utf-8') as file:
     sorted_keys = sorted(results.keys(), key=alphanum_key)
     sort_nicely(sorted_keys)
     for key in sorted_keys:
-        file.write(results[key] + '\n')
+        modified_title = re.sub(r'(超清|高清)', '', results[key])
+        file.write(modified_title + '\n')
 
 with open("./IPTV.m3u", 'r', encoding='utf-8') as iptv_file:
     iptv_content = iptv_file.readlines()
