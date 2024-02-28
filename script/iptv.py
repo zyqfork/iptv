@@ -38,6 +38,13 @@ for channel in data["channels"]:
     if re.match(r'^(?!.*高清).*cctv', channel_title, re.IGNORECASE):
         continue
 
+    if channel_title.startswith(("咪咕-", "精选频道", "精选4k频道", "百视通高清直播室")):
+        continue
+
+    if channel_title.startswith("CCTV") and channel_title[4].isdigit():
+        channel_title = f"CCTV-{channel_title[4:]}"
+        print(channel_title)
+
     hwurl_value = ""
 
     if "phychannels" in channel and len(channel["phychannels"]) > 0:
@@ -53,6 +60,24 @@ for channel in data["channels"]:
         hwurl_value = hwurl_value.replace("rtp:/", "/udp")
         result = f"#EXTINF:-1 group-title=\"IPTV\", {channel_title} \n{prefix}{hwurl_value}"
         results[channel_title] = result
+
+keys_to_remove = set()
+
+for key1 in results:
+    if key1.endswith("高清"):
+        new_key = key1.replace("高清", "超清")
+        if new_key in results:
+            keys_to_remove.add(key1)
+    for key2 in results:
+        if key1 != key2 and key1 in key2:
+            keys_to_remove.add(key1)
+
+print(keys_to_remove)
+
+for key in keys_to_remove:
+    del results[key]
+
+
 
 output_file = os.path.join('out', output_file)
 
