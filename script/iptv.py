@@ -38,7 +38,7 @@ for channel in data["channels"]:
     if re.match(r'^(?!.*高清).*cctv', channel_title, re.IGNORECASE):
         continue
 
-    if channel_title.startswith(("咪咕-", "精选频道", "精选4k频道", "百视通高清直播室")):
+    if channel_title.startswith(("咪咕", "精选频道", "精选4k频道", "百视通高清直播室", "移动")):
         continue
 
     if channel_title.startswith("CCTV") and channel_title[4].isdigit():
