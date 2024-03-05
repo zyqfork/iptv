@@ -103,8 +103,6 @@ http://home-mi:7088/udp/239.11.0.182:1025
 http://home-mi:7088/udp/239.10.0.81:1025
 #EXTINF:-1 group-title="IPTV", 吉林延边卫视 
 http://home-mi:7088/udp/239.10.0.140:1025
-#EXTINF:-1 group-title="IPTV", 咪咕五大联赛4K-1 
-http://home-mi:7088/udp/239.10.0.68:1025
 #EXTINF:-1 group-title="IPTV", 嘉佳卡通 
 http://home-mi:7088/udp/239.10.0.200:1025
 #EXTINF:-1 group-title="IPTV", 四川卫视 
@@ -201,10 +199,6 @@ http://home-mi:7088/udp/239.11.0.175:1025
 http://home-mi:7088/udp/239.11.0.58:1025
 #EXTINF:-1 group-title="IPTV", 福建东南卫视 
 http://home-mi:7088/udp/239.10.0.77:1025
-#EXTINF:-1 group-title="IPTV", 移动咪咕五大联赛4K-2 
-http://home-mi:7088/udp/239.10.0.69:1025
-#EXTINF:-1 group-title="IPTV", 移动频道 
-http://home-mi:7088/udp/239.10.0.143:1025
 #EXTINF:-1 group-title="IPTV", 第一剧场 
 http://home-mi:7088/udp/239.11.0.67:1025
 #EXTINF:-1 group-title="IPTV", 经典电影 
