@@ -88,7 +88,7 @@ with open(output_file, 'w', encoding='utf-8') as file:
         file.write(modified_title + '\n')
     with open("./script/iptv.txt", 'r', encoding='utf-8') as iptv_miss:
         iptv_miss_list = iptv_miss.readlines()
-        file.write(iptv_miss_list + '\n')
+        file.writelines(iptv_miss_list)
     
 
 with open("./IPTV.m3u", 'r', encoding='utf-8') as iptv_file:
