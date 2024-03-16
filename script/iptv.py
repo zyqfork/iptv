@@ -87,8 +87,8 @@ with open(output_file, 'w', encoding='utf-8') as file:
         modified_title = re.sub(r'(超清|高清)', '', results[key])
         file.write(modified_title + '\n')
     with open("./script/iptv.txt", 'r', encoding='utf-8') as iptv_miss:
-        iptv_miss = iptv_file.readlines()
-        file.write(iptv_miss + '\n')
+        iptv_miss_list = iptv_miss.readlines()
+        file.write(iptv_miss_list + '\n')
     
 
 with open("./IPTV.m3u", 'r', encoding='utf-8') as iptv_file:
