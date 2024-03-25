@@ -6,6 +6,7 @@ import re
 import os
 from collections import OrderedDict
 
+
 def tryint(s):
     try:
         return int(s)
@@ -22,7 +23,7 @@ hwurl = "hwurl"
 prefix = sys.argv[2] if len(sys.argv) > 2 else ""
 
 output_file = sys.argv[3] if len(sys.argv) > 3 and sys.argv[3] else re.sub(r'http[s]?://([^:/]+).*', r'\1', sys.argv[2]).replace(".", "") + ".m3u"
-
+output_file_txt = sys.argv[3] if len(sys.argv) > 3 and sys.argv[3] else re.sub(r'http[s]?://([^:/]+).*', r'\1', sys.argv[2]).replace(".", "") + ".txt"
 
 print(f"output_file: {output_file}")
 
@@ -88,6 +89,7 @@ with open(output_file, 'w', encoding='utf-8') as file:
         file.write(modified_title + '\n')
     with open("./script/iptv.txt", 'r', encoding='utf-8') as iptv_miss:
         for line in iptv_miss:
+            line = line.strip().replace("${host}", prefix)
             modified_line = "#EXTINF:-1 group-title=\"IPTV\", " + line.strip().replace(',', '\n') + '\n'
             file.write(modified_line)
     
@@ -107,3 +109,21 @@ global_content = global_content[1:]
 
 with open(output_file, 'a', encoding='utf-8') as local_file:
     local_file.writelines(global_content)
+
+with open(output_file, 'r', encoding='utf-8') as local_file:
+    last_field="";
+    lines = local_file.readlines()
+    if lines:
+        lines.pop(0)
+for i in range(len(lines)):
+    line = lines[i]
+    if line.startswith('#EXTINF'):
+        last_field += line.rstrip().split(',')[-1].strip()+','
+        if i < len(lines) - 1:
+            next_line = lines[i + 1].strip()+'\n'
+            last_field += next_line
+
+output_file_txt = os.path.join('out', output_file_txt)
+with open(output_file_txt, 'w', encoding='utf-8') as output_txt:
+  output_txt.write(last_field + '\n')
+
