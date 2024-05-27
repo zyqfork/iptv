@@ -102,14 +102,6 @@ iptv_content = iptv_content[1:]
 with open(output_file, 'a', encoding='utf-8') as local_file:
     local_file.writelines(iptv_content)
 
-with open("./Global.m3u", 'r', encoding='utf-8') as global_file:
-    global_content = global_file.readlines()
-
-global_content = global_content[1:]
-
-with open(output_file, 'a', encoding='utf-8') as local_file:
-    local_file.writelines(global_content)
-
 with open(output_file, 'r', encoding='utf-8') as local_file:
     last_field="";
     lines = local_file.readlines()
