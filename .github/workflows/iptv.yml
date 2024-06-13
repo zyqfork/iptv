@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - main  # 这里可以替换成您希望触发工作流的分支名称
-  schedule:
-    - cron: "0 2 * * *"
+#  schedule:
+#    - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:
