@@ -1,0 +1,313 @@
+CCTV-1,http://10.0.0.1:7088/udp/239.10.0.48:1025
+CCTV-2,http://10.0.0.1:7088/udp/239.10.0.207:1025
+CCTV-3,http://10.0.0.1:7088/udp/239.10.0.101:1025
+CCTV-4中文国际欧洲,http://10.0.0.1:7088/udp/239.11.0.101:1025
+CCTV-4中文国际美洲,http://10.0.0.1:7088/udp/239.11.0.102:1025
+CCTV-4,http://10.0.0.1:7088/udp/239.10.0.245:1025
+CCTV-5+体育,http://10.0.0.1:7088/udp/239.10.0.213:1025
+CCTV-5,http://10.0.0.1:7088/udp/239.10.0.102:1025
+CCTV-6,http://10.0.0.1:7088/udp/239.10.0.103:1025
+CCTV-7国防军事,http://10.0.0.1:7088/udp/239.10.0.208:1025
+CCTV-8,http://10.0.0.1:7088/udp/239.10.0.104:1025
+CCTV-9,http://10.0.0.1:7088/udp/239.10.0.209:1025
+CCTV-10,http://10.0.0.1:7088/udp/239.10.0.210:1025
+CCTV-11,http://10.0.0.1:7088/udp/239.11.0.24:1025
+CCTV-12,http://10.0.0.1:7088/udp/239.10.0.211:1025
+CCTV-13,http://10.0.0.1:7088/udp/239.10.0.198:1025
+CCTV-14少儿,http://10.0.0.1:7088/udp/239.10.0.212:1025
+CCTV-15,http://10.0.0.1:7088/udp/239.11.0.25:1025
+CCTV-16,http://10.0.0.1:7088/udp/239.11.0.126:1025
+CCTV-17农业,http://10.0.0.1:7088/udp/239.10.0.244:1025
+CETV-2,http://10.0.0.1:7088/udp/239.11.0.35:1025
+CETV-4,http://10.0.0.1:7088/udp/239.11.0.176:1025
+CGTN 俄语,http://10.0.0.1:7088/udp/239.11.0.108:1025
+CGTN 法语,http://10.0.0.1:7088/udp/239.11.0.106:1025
+CGTN 英文记录,http://10.0.0.1:7088/udp/239.11.0.104:1025
+CGTN 英语,http://10.0.0.1:7088/udp/239.11.0.103:1025
+CGTN 西班牙语,http://10.0.0.1:7088/udp/239.11.0.105:1025
+CGTN 阿拉伯语,http://10.0.0.1:7088/udp/239.11.0.107:1025
+IPTV法治,http://10.0.0.1:7088/udp/239.10.0.11:1025
+IPTV相声小品,http://10.0.0.1:7088/udp/239.10.0.9:1025
+IPTV谍战剧场,http://10.0.0.1:7088/udp/239.10.0.8:1025
+IPTV野外,http://10.0.0.1:7088/udp/239.10.0.10:1025
+VSPN电竞,http://10.0.0.1:7088/udp/239.10.0.84:1025
+三沙卫视,http://10.0.0.1:7088/udp/239.11.0.177:1025
+上海纪实,http://10.0.0.1:7088/udp/239.10.0.78:1025
+世界地理,http://10.0.0.1:7088/udp/239.11.0.63:1025
+东方卫视,http://10.0.0.1:7088/udp/239.10.0.183:1025
+中国交通,http://10.0.0.1:7088/udp/239.10.0.72:1025
+中国教育-1,http://10.0.0.1:7088/udp/239.10.0.223:1025
+中学生,http://10.0.0.1:7088/udp/239.11.0.173:1025
+书画,http://10.0.0.1:7088/udp/239.11.0.174:1025
+云南卫视,http://10.0.0.1:7088/udp/239.11.0.171:1025
+兵器科技,http://10.0.0.1:7088/udp/239.11.0.57:1025
+兵团卫视,http://10.0.0.1:7088/udp/239.10.0.170:1025
+内蒙古卫视,http://10.0.0.1:7088/udp/239.10.0.163:1025
+北京卫视,http://10.0.0.1:7088/udp/239.10.0.131:1025
+卡酷动画,http://10.0.0.1:7088/udp/239.10.0.172:1025
+厦门卫视,http://10.0.0.1:7088/udp/239.10.0.178:1025
+发现之旅,http://10.0.0.1:7088/udp/239.11.0.182:1025
+吉林卫视,http://10.0.0.1:7088/udp/239.10.0.81:1025
+吉林延边卫视,http://10.0.0.1:7088/udp/239.10.0.140:1025
+嘉佳卡通,http://10.0.0.1:7088/udp/239.10.0.200:1025
+四川卫视,http://10.0.0.1:7088/udp/239.10.0.60:1025
+国学频道,http://10.0.0.1:7088/udp/239.10.0.38:1025
+大湾区卫视,http://10.0.0.1:7088/udp/239.11.0.78:1025
+天津卫视,http://10.0.0.1:7088/udp/239.10.0.55:1025
+央视台球,http://10.0.0.1:7088/udp/239.11.0.60:1025
+央视精品,http://10.0.0.1:7088/udp/239.11.0.66:1025
+女性时尚,http://10.0.0.1:7088/udp/239.11.0.62:1025
+宁夏卫视,http://10.0.0.1:7088/udp/239.10.0.166:1025
+安徽卫视,http://10.0.0.1:7088/udp/239.10.0.203:1025
+少儿动画,http://10.0.0.1:7088/udp/239.10.0.18:1025
+山东卫视,http://10.0.0.1:7088/udp/239.10.0.56:1025
+山东教育,http://10.0.0.1:7088/udp/239.10.0.176:1025
+山西卫视,http://10.0.0.1:7088/udp/239.10.0.162:1025
+岭南戏曲,http://10.0.0.1:7088/udp/239.11.0.180:1025
+广东体育,http://10.0.0.1:7088/udp/239.10.0.47:1025
+广东卫视,http://10.0.0.1:7088/udp/239.10.0.45:1025
+广东少儿,http://10.0.0.1:7088/udp/239.11.0.81:1025
+广东影视,http://10.0.0.1:7088/udp/239.11.0.79:1025
+广东新闻,http://10.0.0.1:7088/udp/239.10.0.199:1025
+广东民生,http://10.0.0.1:7088/udp/239.11.0.80:1025
+广东珠江,http://10.0.0.1:7088/udp/239.10.0.63:1025
+广西卫视,http://10.0.0.1:7088/udp/239.10.0.246:1025
+怀旧剧场,http://10.0.0.1:7088/udp/239.11.0.64:1025
+收视指南,http://10.0.0.1:7088/udp/239.10.0.20:1025
+新疆卫视,http://10.0.0.1:7088/udp/239.10.0.168:1025
+早期教育,http://10.0.0.1:7088/udp/239.11.0.100:1025
+江苏卫视,http://10.0.0.1:7088/udp/239.10.0.51:1025
+江西卫视,http://10.0.0.1:7088/udp/239.10.0.80:1025
+汽摩,http://10.0.0.1:7088/udp/239.10.0.232:1025
+河北卫视,http://10.0.0.1:7088/udp/239.10.0.79:1025
+河南卫视,http://10.0.0.1:7088/udp/239.11.0.94:1025
+浙江卫视,http://10.0.0.1:7088/udp/239.10.0.50:1025
+海南卫视,http://10.0.0.1:7088/udp/239.11.0.172:1025
+深圳卫视,http://10.0.0.1:7088/udp/239.10.0.52:1025
+湖北卫视,http://10.0.0.1:7088/udp/239.10.0.54:1025
+湖南卫视,http://10.0.0.1:7088/udp/239.10.0.49:1025
+炫动卡通,http://10.0.0.1:7088/udp/239.10.0.174:1025
+热播剧场,http://10.0.0.1:7088/udp/239.10.0.15:1025
+爱体育,http://10.0.0.1:7088/udp/239.10.0.218:1025
+爱大剧,http://10.0.0.1:7088/udp/239.10.0.14:1025
+爱电影,http://10.0.0.1:7088/udp/239.10.0.12:1025
+爱综艺,http://10.0.0.1:7088/udp/239.10.0.16:1025
+环球奇观,http://10.0.0.1:7088/udp/239.10.0.36:1025
+现代教育,http://10.0.0.1:7088/udp/239.11.0.181:1025
+甘肃卫视,http://10.0.0.1:7088/udp/239.11.0.175:1025
+电视指南,http://10.0.0.1:7088/udp/239.11.0.58:1025
+福建东南卫视,http://10.0.0.1:7088/udp/239.10.0.77:1025
+第一剧场,http://10.0.0.1:7088/udp/239.11.0.67:1025
+经典电影,http://10.0.0.1:7088/udp/239.10.0.13:1025
+经济科教,http://10.0.0.1:7088/udp/239.10.0.46:1025
+老故事,http://10.0.0.1:7088/udp/239.10.0.33:1025
+西藏卫视,http://10.0.0.1:7088/udp/239.10.0.167:1025
+财富天下,http://10.0.0.1:7088/udp/239.10.0.177:1025
+贵州卫视,http://10.0.0.1:7088/udp/239.10.0.222:1025
+辽宁卫视,http://10.0.0.1:7088/udp/239.10.0.58:1025
+重庆卫视,http://10.0.0.1:7088/udp/239.10.0.205:1025
+金鹰卡通,http://10.0.0.1:7088/udp/239.11.0.125:1025
+金鹰纪实,http://10.0.0.1:7088/udp/239.10.0.59:1025
+陕西卫视,http://10.0.0.1:7088/udp/239.10.0.161:1025
+青海卫视,http://10.0.0.1:7088/udp/239.11.0.179:1025
+风云剧场,http://10.0.0.1:7088/udp/239.11.0.65:1025
+风云足球,http://10.0.0.1:7088/udp/239.11.0.59:1025
+风云音乐,http://10.0.0.1:7088/udp/239.11.0.68:1025
+高尔夫网球,http://10.0.0.1:7088/udp/239.11.0.61:1025
+魅力时尚,http://10.0.0.1:7088/udp/239.10.0.19:1025
+黑龙江卫视,http://10.0.0.1:7088/udp/239.10.0.53:1025
+南方卫视高清,http://10.0.0.1:7088/udp/239.21.0.84:3676
+广东影视高清,http://10.0.0.1:7088/udp/239.21.0.85:3680
+广东少儿高清,http://10.0.0.1:7088/udp/239.21.0.87:3688
+嘉佳卡通高清,http://10.0.0.1:7088/udp/239.21.0.94:3716
+广州新闻高清,http://10.0.0.1:7088/udp/239.11.0.139:1025
+广州影视高清,http://10.0.0.1:7088/udp/239.11.0.140:1025
+广州法治高清,http://10.0.0.1:7088/udp/239.11.0.141:1025
+广州综合高清,http://10.0.0.1:7088/udp/239.11.0.138:1025
+汕头新闻综合高清,http://10.0.0.1:7088/udp/239.21.0.101:3744
+汕头经济生活高清,http://10.0.0.1:7088/udp/239.21.0.102:3748
+汕头文旅体育高清,http://10.0.0.1:7088/udp/239.21.0.103:3752
+揭阳电视台综合频道,http://10.0.0.1:7088/udp/239.21.0.82:3668
+揭阳电视台公共频道,http://10.0.0.1:7088/udp/239.21.0.83:3672
+江门综合高清,http://10.0.0.1:7088/udp/239.10.0.219:1025
+江门公共高清,http://10.0.0.1:7088/udp/239.10.0.139:1025
+江门教育高清,http://10.0.0.1:7088/udp/239.10.0.152:1025
+云浮综合高清,http://10.0.0.1:7088/udp/239.11.0.96:1025
+云浮文旅高清,http://10.0.0.1:7088/udp/239.11.0.97:1025
+茂名综合高清,http://10.0.0.1:7088/udp/239.10.0.238:1025
+茂名公共高清,http://10.0.0.1:7088/udp/239.11.0.99:1025
+河源新闻综合高清,http://10.0.0.1:7088/udp/239.21.0.48:3532
+佛山公共高清,http://10.0.0.1:7088/udp/239.11.0.114:1025
+佛山影视高清,http://10.0.0.1:7088/udp/239.11.0.117:1025
+佛山综合高清,http://10.0.0.1:7088/udp/239.11.0.118:1025
+南海频道高清,http://10.0.0.1:7088/udp/239.11.0.115:1025
+顺德频道高清,http://10.0.0.1:7088/udp/239.11.0.116:1025
+中山综合高清,http://10.0.0.1:7088/udp/239.11.0.122:1025
+中山公共高清,http://10.0.0.1:7088/udp/239.11.0.123:1025
+中山教育高清,http://10.0.0.1:7088/udp/239.11.0.124:1025
+韶关综合高清,http://10.0.0.1:7088/udp/239.11.0.84:1025
+韶关公共高清,http://10.0.0.1:7088/udp/239.11.0.85:1025
+惠州综合高清,http://10.0.0.1:7088/udp/239.21.0.27:3448
+惠州公共高清,http://10.0.0.1:7088/udp/239.21.0.28:3452
+珠海公共高清,http://10.0.0.1:7088/udp/239.10.0.65:1025
+湛江新闻高清,http://10.0.0.1:7088/udp/239.10.0.253:1025
+湛江公共高清,http://10.0.0.1:7088/udp/239.10.0.254:1025
+肇庆新闻高清,http://10.0.0.1:7088/udp/239.11.0.53:1025
+肇庆生活高清,http://10.0.0.1:7088/udp/239.11.0.54:1025
+河源公共高清,http://10.0.0.1:7088/udp/239.21.0.49:3536
+清远综合高清,http://10.0.0.1:7088/udp/239.11.0.74:1025
+清远公共高清,http://10.0.0.1:7088/udp/239.11.0.75:1025
+汕尾综合高清,http://10.0.0.1:7088/udp/239.21.0.89:3696
+汕尾公共高清,http://10.0.0.1:7088/udp/239.21.0.90:3700
+揭阳综合高清,http://10.0.0.1:7088/udp/239.21.0.91:3704
+揭阳公共高清,http://10.0.0.1:7088/udp/239.21.0.92:3708
+广东综艺4K,http://10.0.0.1:7088/udp/239.10.0.75:1025
+南国都市4K,http://10.0.0.1:7088/udp/239.11.0.170:1025
+CHC高清电影,http://10.0.0.1:7088/udp/239.21.0.119:3820
+求索记录,http://10.0.0.1:7088/udp/239.21.0.118:3816
+金鹰卡通,http://10.0.0.1:7088/udp/239.21.0.115:3804
+早期教育,http://10.0.0.1:7088/udp/239.21.0.106:3764
+中国交通,http://10.0.0.1:7088/udp/239.20.0.68:3128
+快乐垂钓,http://10.0.0.1:7088/udp/239.21.0.121:3828
+茶频道,http://10.0.0.1:7088/udp/239.21.0.120:3824
+CCTV-1,rtp://239.3.1.129:8008
+CCTV-2,rtp://239.3.1.60:8084
+CCTV-3,rtp://239.3.1.172:8001
+CCTV-4,rtp://239.3.1.105:8092
+CCTV-5,rtp://239.3.1.173:8001
+CCTV-6,rtp://239.3.1.174:8001
+CCTV-7,rtp://239.3.1.61:8104
+CCTV-8,rtp://239.3.1.175:8001
+CCTV-9,rtp://239.3.1.62:8112
+CCTV-10,rtp://239.3.1.63:8116
+CCTV-11,rtp://239.3.1.152:8120
+CCTV-12,rtp://239.3.1.64:8124
+CCTV-13,rtp://239.3.1.124:8128
+CCTV-14,rtp://239.3.1.65:8132
+CCTV-15,rtp://239.3.1.153:8136
+CCTV-16,rtp://239.3.1.184:8001
+CCTV-17,rtp://239.3.1.151:8144
+CCTV-4K,rtp://239.3.1.245:2000
+中文欧洲,rtp://239.3.1.213:4220
+中文美洲,rtp://239.3.1.214:4220
+体育赛事,rtp://239.3.1.130:8004
+中国教育,rtp://239.3.1.57:8152
+CGTN新闻,rtp://239.3.1.215:4220
+CGTN纪录,rtp://239.3.1.216:4220
+北京卫视,rtp://239.3.1.241:8000
+东方卫视,rtp://239.3.1.136:8032
+湖南卫视,rtp://239.3.1.132:8012
+浙江卫视,rtp://239.3.1.137:8036
+江苏卫视,rtp://239.3.1.135:8028
+江西卫视,rtp://239.3.1.123:8164
+河北卫视,rtp://239.3.1.148:8072
+深圳卫视,rtp://239.3.1.134:8020
+湖北卫视,rtp://239.3.1.138:8044
+天津卫视,rtp://239.3.1.148:8072
+安徽卫视,rtp://239.3.1.211:8064
+山东卫视,rtp://239.3.1.209:8052
+广东卫视,rtp://239.3.1.142:8048
+贵州卫视,rtp://239.3.1.149:8076
+辽宁卫视,rtp://239.3.1.210:8056
+重庆卫视,rtp://239.3.1.122:8160
+龙江卫视,rtp://239.3.1.133:8016
+吉林卫视,rtp://239.3.1.240:8172
+东南卫视,rtp://239.3.1.156:8148
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+内蒙卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+第一卫视,http://play2.one-tv.com/live/onetv.m3u8
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+北京新闻,rtp://239.3.1.159:8000
+北京财经,rtp://239.3.1.115:8000
+北京生活,rtp://239.3.1.117:8000
+北京文艺,rtp://239.3.1.242:8000
+北京影视,rtp://239.3.1.158:8000
+北京国际,rtp://239.3.1.235:8000
+体育休闲,rtp://239.3.1.243:8000
+纪实科教,rtp://239.3.1.115:8000
+卡酷少儿,rtp://239.3.1.189:8000
+金鹰纪实,rtp://239.3.1.58:8156
+纪实人文,rtp://239.3.1.212:8060
+乐游频道,rtp://239.3.1.207:8001
+都市剧场,rtp://239.3.1.203:8001
+动漫秀场,rtp://239.3.1.202:8001
+法治天地,rtp://239.3.1.204:8001
+生活时尚,rtp://239.3.1.206:8001
+金色学堂,rtp://239.3.1.208:8001
+游戏风云,rtp://239.3.1.205:8001
+魅力足球,rtp://239.3.1.201:8001
+茶友频道,rtp://239.3.1.165:8001
+快乐垂钓,rtp://239.3.1.164:8001
+睛彩竞技,rtp://239.3.1.125:8001
+睛彩篮球,rtp://239.3.1.126:8001
+睛彩青少,rtp://239.3.1.127:8001
+睛彩场舞,rtp://239.3.1.128:8001
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+呼市新综,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=70072e9dff1f4042fcefde5b001af668&txTime=771E8800
+包头新综,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d513bc0f9c5b751&txTime=771E8800
+BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNN Fast,https://i.mjh.nz/discovery-ptcn.m3u8
+CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+NBC News Now,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212
+ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+Sky News,https://i.mjh.nz/sky-news-now.m3u8
+AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+Africa News,https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
+Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+ComedyDynamics,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
+BBC Earth,https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
+History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+TED Conference,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+Ted Talks,https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+The Graham Norton Show,https://i.mjh.nz/discovery-ptgn.m3u8
+Mytime,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+La LA Life,https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
+MovieDome,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+Tastemade,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
+Yu-Gi-Oh,https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
+ION Plus,https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
+Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
+Museum,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Ondemand China,https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+Food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+MovieSphere,https://i.mjh.nz/discovery-ptms.m3u8
+Rakuten Viki,https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+Rakuten TV Shows,https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
+Rakuten Comedy,https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+Rakuten Action,https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+Rakuten Thriller,https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
+Rakuten British Films,https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
+Global Fashion Channel,https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Billiards TV,https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
