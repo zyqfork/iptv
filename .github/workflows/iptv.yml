@@ -32,7 +32,8 @@ jobs:
         run: |
           python3 script/iptv.py script/getAllChannel2.json http://192.168.10.1:7088
           python3 script/iptv.py script/getAllChannel2.json http://10.0.0.1:7088
-          python3 script/iptv.py script/getAllChannel2.json http://home:7088
+          python3 script/iptv.py script/getAllChannel2.json http://home-jd:7088
+          python3 script/iptv.py script/getAllChannel2.json http://192.168.1.1:7088
 
       - name: update README.md
         run: |
