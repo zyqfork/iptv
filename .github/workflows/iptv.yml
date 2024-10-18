@@ -1,0 +1,48 @@
+name: update_rules
+on:
+  push:
+    branches:
+      - main  # 这里可以替换成您希望触发工作流的分支名称
+#  schedule:
+#    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: Gitlab Sync
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout github repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run Python
+        run: |
+          python3 script/iptv.py script/getAllChannel2.json http://192.168.10.1:7088
+          python3 script/iptv.py script/getAllChannel2.json http://10.0.0.1:7088
+          python3 script/iptv.py script/getAllChannel2.json http://home:7088
+
+      - name: update README.md
+        run: |
+          current_time=$(date +"%Y-%m-%d %H:%M:%S")
+          sed -i "s/##### update at .*/$(date '+##### update at %Y-%m-%d %H:%M:%S')/" ./out/README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update at $(date +'%Y-%m-%d %H:%M:%S')"
+          git push --quiet
