@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="其他", 4k精选
+http://192.168.1.1:7088/udp/239.11.0.23:1025
 #EXTINF:-1 group-title="央视", CCTV-1 
 http://192.168.1.1:7088/udp/239.10.0.48:1025
 #EXTINF:-1 group-title="央视", CCTV-2 
 http://192.168.1.1:7088/udp/239.10.0.207:1025
 #EXTINF:-1 group-title="央视", CCTV-3 
 http://192.168.1.1:7088/udp/239.10.0.101:1025
+#EXTINF:-1 group-title="央视", CCTV-4k超
+http://192.168.1.1:7088/udp/239.11.0.162:1025
 #EXTINF:-1 group-title="央视", CCTV-4中文国际欧洲 
 http://192.168.1.1:7088/udp/239.11.0.101:1025
 #EXTINF:-1 group-title="央视", CCTV-4中文国际美洲 
